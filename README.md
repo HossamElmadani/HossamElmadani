@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HossamElmadani
+- 👋 Hi, I’m Hossam El Madani
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning full stuck
 - 💞️ I’m looking to collaborate on ...
